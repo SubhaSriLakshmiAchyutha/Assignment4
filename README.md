@@ -8,3 +8,4 @@ https://colab.research.google.com/drive/1DK28Pq3ZcJ0A-yGmLbiuKcXU1-5Po9Ao?usp=dr
 
 
 Video Link:
+https://drive.google.com/file/d/1irn9-jvfIYWZDluTepTmOhmwGrKzcATc/view?usp=drive_link
